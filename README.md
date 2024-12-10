@@ -25,9 +25,6 @@ Follow these steps to use the Image Encryption Tool:
    Clone the repository to your local machine using Git:
    ```bash
    git clone https://github.com/tholumuzikhuboni/PRODIGY_CY_02.git
-## How to Use
-
-Follow these steps to use the Image Encryption Tool:
 
 2. **Navigate to the Project Directory**:
    Move into the project's directory
