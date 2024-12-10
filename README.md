@@ -33,13 +33,11 @@ Follow these steps to use the Image Encryption Tool:
 
 3. **Install Dependencies**:
    Make sure Python 3.x is installed. Then, install the required library using:
-   ```bash
-  pip install pillow
+   ```bash pip install pillow
 
 4. **Run the Script**:
    Start the tool by executing:
-   ```bash
-  python image_encryptor.py
+   ```bash python image_encryptor.py
 
 
 
