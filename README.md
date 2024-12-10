@@ -29,7 +29,7 @@ Follow these steps to use the Image Encryption Tool:
 2. **Navigate to the Project Directory**:
    Move into the project's directory
    ```bash
-   cd image-encryption-tool
+   cd PRODIGY_CY_02
 
 3. **Install Dependencies**:
    Make sure Python 3.x is installed. Then, install the required library using:
@@ -39,7 +39,7 @@ Follow these steps to use the Image Encryption Tool:
 4. **Run the Script**:
    Start the tool by executing:
    ```bash 
-   python image_encryptor.py
+   python image-encryption.py
 
 5. **Encrypt an Image**:
    - Choose the "Encrypt an Image" option in the menu.
