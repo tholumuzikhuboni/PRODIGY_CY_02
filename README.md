@@ -33,11 +33,27 @@ Follow these steps to use the Image Encryption Tool:
 
 3. **Install Dependencies**:
    Make sure Python 3.x is installed. Then, install the required library using:
-   ```bash pip install pillow
+   ```bash 
+   pip install pillow
 
 4. **Run the Script**:
    Start the tool by executing:
-   ```bash python image_encryptor.py
+   ```bash 
+   python image_encryptor.py
+
+5. **Encrypt an Image**:
+   - Choose the "Encrypt an Image" option in the menu.
+   - Provide the following inputs:
+     - **Path to the input image**: The location of the image you want to encrypt (e.g., `images/input.jpg`).
+     - **Path to save the encrypted image**: The location where the encrypted image should be saved (e.g., `images/encrypted_image.jpg`).
+     - **Encryption key**: An integer key for encryption (e.g., `42`).
+
+6. **Decrypt an Image**:
+   - Choose the "Decrypt an Image" option in the menu.
+   - Provide the following inputs:
+     - **Path to the encrypted image**: The location of the previously encrypted image (e.g., `images/encrypted_image.jpg`).
+     - **Path to save the decrypted image**: The location where the decrypted image should be saved (e.g., `images/decrypted_image.jpg`).
+     - **Decryption key**: The same integer key used during encryption (e.g., `42`).
 
 
 
